@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Open source project**
 
-- 👨‍💻 All of my projects are available at [https://www.lawrencepro.dev](LawrencePro.dev)
+- 👨‍💻 All of my projects are available at [LawrencePro.dev](https://www.lawrencepro.dev)
 
 - 💬 Ask me about **ReactJS, JavaScript and CSS**
 
