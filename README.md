@@ -1,11 +1,11 @@
 <h1 align="center">Hey there, I am Lawrence</h1>
 <h4 align="center">Delhi based self-taught web developer, specialized in MERN stack (MongoDB- ExpressJS-React-NodeJS) with experience in developing interfaces, interactions, and applications from scratch across the web with expertise in JavaScript, React, and NodeJS for the backend scripting. Ever-Curious, tech-malleable, and driven with a passion for creating engaging immersive interactions with utmost empathy for users. The primary area of interest are performance optimization, scalability, accessibility and security of the web applications. Certified Full Stack Developer from Coding Elements and Frontend Nano Degree from Udacity.</h4>
 
-- 👯 I’m looking to collaborate on **Open source project**
+- 👯  I’m looking to collaborate on **Open source project**
 
-- 👨‍💻 All of my projects are available at [LawrencePro.dev](https://www.lawrencepro.dev)
+- 👨‍ 💻 All of my projects are available at [LawrencePro.dev](https://www.lawrencepro.dev)
 
-- 💬 Ask me about **ReactJS, JavaScript and CSS**
+- 💬  Ask me about **ReactJS, JavaScript and CSS**
 
 <br>
 
